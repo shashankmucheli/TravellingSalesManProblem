@@ -1,0 +1,4 @@
+ a, e, g, c, b, f, i, d, h, a,
+Total Tour Cost:16.78589116296294
+wVal:0.3
+Total Execution Time 100.0 milliseconds
